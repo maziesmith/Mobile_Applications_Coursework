@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Protoype_Coursework</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="enter_f_name">Enter Your First Name</string>
+    <string name="enter_l_name">Enter Your Last Name</string>
+    <string name="enter_email">Enter University Email Address</string>
+    <string name="enter_uni">Enter University</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="action_register_complete">Complete Registration</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_user">This email is not registered</string>
+    <string name="no_error">No Error</string>
+    <string name="error_invalid_password">Invalid Password</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="search_button">Search</string>
+    <string name="post_button">Post a Book</string>
+    <string name="delete_post_button">Delete a post</string>
+    <string name="subject_button">Book Name</string>
+    <string name="class_button">Course ID</string>
+    <string name="menu_head">MENU</string>
+    <string name="search_head">SEARCH BY:</string>
+    <string name="enter_book_name">Enter Book Name</string>
+    <string name="enter_author">Enter Author</string>
+    <string name="enter_class">Enter Course ID</string>
+    <string name="enter_price">Enter Price</string>
+    <string name="enter_edition">Enter Edition</string>
+    <string name="choose_condition">Choose Condition</string>
+    <string name="action_submit">Submit Post</string>
+    <string name="notes">Enter Any Notes or Comments</string>
+    <string name="post_error">This field must be filled out</string>
+    <string name="enter_book_search">Enter a Book Title</string>
+    <string name="enter_course_id_search">Enter a Course ID</string>
+    <string name="enter_email_text">Enter message for seller</string>
+    <string name="send">Send Email</string>
+    <string name="subject_line">Enter a Subject</string>
+
+    <string-array name="conditionArray">
+        <item>Perfect</item>
+        <item>Good</item>
+        <item>Ok</item>
+        <item>Poor</item>
+    </string-array>
+
+    <string-array name="collegesArray">
+        <item>Westminster College</item>
+        <item>UC Santa Barbara</item>
+        <item>Edinburgh Napier University</item>
+        <item>Cornell University</item>
+    </string-array>
+
+</resources>
